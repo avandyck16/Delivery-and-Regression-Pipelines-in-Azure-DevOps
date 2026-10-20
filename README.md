@@ -1,3 +1,22 @@
+# Confidentiality Notice
+
+> This repository contains an anonymized portfolio case study based on a real-world project.
+>
+> Company names, client information, URLs, credentials, proprietary business logic, and sensitive implementation details have been removed or modified to protect confidentiality.
+>
+> Any code snippets included are examples only and do not represent any protected production codebase.
+
+---
+
+### Supporting Documentation
+
+> For more details, refer to the original project's documentation in Spanish:
+> 
+> - [History Report](./Historico.pdf)
+> - [Refactor Documentation](./Refactor.pdf)
+
+--- 
+
 # Separating Delivery and Regression Testing in Azure DevOps pipelines for independent executions.
 
 # 3PL — Cypress Pipeline Architecture
@@ -241,6 +260,13 @@ The publishing steps use `succeededOrFailed()` or `always()` conditions where co
 This project demonstrates practical CI/CD pipeline refactoring: identifying tightly coupled responsibilities, extracting reusable YAML, parameterizing execution behavior and separating continuous delivery from independently triggered regression testing.
 
 The work involved adapting the existing pipeline architecture rather than replacing it, while using AI-assisted development as a support tool for implementation and troubleshooting.
+
+### Supporting Documentation
+
+For more details, refer to the following documents in Spanish:
+
+- [History Report](./Historico.pdf)
+- [Refactor Documentation](./Refactor.pdf)
 
 ---
 
